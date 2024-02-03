@@ -12,7 +12,7 @@ Here's a glimpse into the impactful work:
 
 🗒Tool Used:- MySQL, Power BI, Power Query Editor
 
-GitHub link : 
+GitHub link : https://github.com/Sangmeshwar96/Showroom-Sales-Analysis-2023
 
 Linked IN link :
 
